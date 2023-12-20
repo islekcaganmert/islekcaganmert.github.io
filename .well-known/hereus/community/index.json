@@ -2,7 +2,10 @@
     "title": "Demo",
     "details": "Demo HereUS community owned by Cagan Mert ISLEK",
     "about": "<h1><i>Experiment</i></h1>",
-    "features": {},
+    "features": {
+        "testFlags": true,
+        "feed": "mixed"
+    },
     "subs": [],
     "owner": "islekcaganmert@hereus.mail",
     "mods": [
