@@ -1,0 +1,12 @@
+{
+    "names": {
+        "islekcaganmert": "vpgp4gxd43ywjxn3prwzdhpp25kpn4p8w2939f3pu583n220fx2s7hpf75"
+    },
+    "relays": {
+        "npub1vpgp4gxd43ywjxn3prwzdhpp25kpn4p8w2939f3pu583n220fx2s7hpf75": [
+            "relay.snort.social",
+            "nostr.wine",
+            "eden.nostr.land"
+        ]
+    }
+}
