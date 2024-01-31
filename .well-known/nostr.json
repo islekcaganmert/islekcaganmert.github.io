@@ -1,9 +1,9 @@
 {
     "names": {
-        "_": "88f008b27199eef6a445dca5395ada47a45beaea5be2d9b4af829c47b3cfacd2"
+        "_": "60501aa0cdac48e91a7108dc26dc21552c19d427728b12a621e50f19a94f4995"
     },
     "relays": {
-        "88f008b27199eef6a445dca5395ada47a45beaea5be2d9b4af829c47b3cfacd2": [
+        "60501aa0cdac48e91a7108dc26dc21552c19d427728b12a621e50f19a94f4995": [
             "ws://relay.snort.social",
             "ws://nostr.wine",
             "ws://eden.nostr.land"
